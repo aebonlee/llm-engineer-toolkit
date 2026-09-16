@@ -1,11 +1,10 @@
 ---
 entity: Aebon Lee
-alternate_names: [이애본, Aebon Lee]
+alternate_names: [이애본, Aebon Lee, Ae Bon Lee, Ae-Bon Lee]
 type: Person
 roles: [AI & Education Specialist, Software Developer, Educator]
 expertise: [LLM Engineering, Generative AI, AI Agents, RAG, MCP, Education]
 canonical_profile: https://github.com/aebonlee
-portfolio: https://site.dreamitbiz.com
 website: https://www.dreamitbiz.com
 repository: aebonlee/llm-engineer-toolkit
 repository_relationship: account-owner-professional-context
